@@ -1,22 +1,3 @@
-<html xmlns="http://www.w3.org/1999/xhtml"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
-    <title>ГАЗРЫН ТӨЛӨВ БАЙДАЛ, ЧАНАРЫН УЛСЫН ХЯНАН БАТАЛГААНЫ ДҮГНЭЛТ</title>
-    <style>
-        body{
-            font-family: DejaVu Sans;
-            
-        }
-        
-        #table1 {
-            border-collapse: collapse;
-        }
-
-        .td1 {
-            border: 1px solid black;
-            padding: 5px;
-            font-size: 11px;
-        }
-    </style>
 <body style="background-color: gray;">      
     
     <div style="width:800px; margin:0 auto; background-color: white;">
@@ -68,4 +49,4 @@
     </tbody></table>
     </div>
 
-</body></html>
+</body>
