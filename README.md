@@ -1,4 +1,3 @@
-</head>
 <body style="background-color: gray;">      
     
     <div style="width:800px; margin:0 auto; background-color: white;">
@@ -50,4 +49,4 @@
     </tbody></table>
     </div>
 
-</body></html>
+</body>
