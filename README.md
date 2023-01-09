@@ -1,3 +1,23 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>ГАЗРЫН ТӨЛӨВ БАЙДАЛ, ЧАНАРЫН УЛСЫН ХЯНАН БАТАЛГААНЫ ДҮГНЭЛТ</title>
+    <style>
+        body{
+            font-family: DejaVu Sans;
+            
+        }
+        
+        #table1 {
+            border-collapse: collapse;
+        }
+
+        .td1 {
+            border: 1px solid black;
+            padding: 5px;
+            font-size: 11px;
+        }
+    </style>
+</head>
 <body style="background-color: gray;">      
     
     <div style="width:800px; margin:0 auto; background-color: white;">
@@ -46,4 +66,7 @@
                 <p>Баталгаажуулсан огноо: 2023-01-10 09:08:54</p>
             </td>
         </tr>
-    </tbody>
+    </tbody></table>
+    </div>
+
+</body></html>
