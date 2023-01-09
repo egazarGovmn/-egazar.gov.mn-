@@ -1,4 +1,4 @@
-<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html xmlns="http://www.w3.org/1999/xhtml"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <title>ГАЗРЫН ТӨЛӨВ БАЙДАЛ, ЧАНАРЫН УЛСЫН ХЯНАН БАТАЛГААНЫ ДҮГНЭЛТ</title>
     <style>
@@ -17,7 +17,6 @@
             font-size: 11px;
         }
     </style>
-</head>
 <body style="background-color: gray;">      
     
     <div style="width:800px; margin:0 auto; background-color: white;">
